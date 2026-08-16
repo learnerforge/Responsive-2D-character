@@ -1,0 +1,11 @@
+# Build output
+build/
+dist/
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+*.user
